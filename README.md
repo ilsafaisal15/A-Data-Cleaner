@@ -26,4 +26,4 @@ You can try the app online via **Hugging Face Spaces**:
 
 ---
 
-screenshots:
+screenshot:Screenshot 2025-09-10 014124.png
