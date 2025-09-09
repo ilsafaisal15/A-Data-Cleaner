@@ -26,6 +26,4 @@ You can try the app online via **Hugging Face Spaces**:
 
 ---
 
-
-git clone https://github.com/your-username/ai-data-cleaner.git
-cd ai-data-cleaner
+screenshots:
