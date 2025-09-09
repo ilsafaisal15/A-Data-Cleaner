@@ -26,4 +26,4 @@ You can try the app online via **Hugging Face Spaces**:
 
 ---
 
-screenshot: Screenshot 2025-09-10 014124.png
+screenshot:https://github.com/ilsafaisal15/A-Data-Cleaner/blob/main/Screenshot%202025-09-10%20014156.png
